@@ -2,7 +2,7 @@
 
 Meta Blobs for Unity 3D.
 
-[<img src="https://d13yacurqjgara.cloudfront.net/users/655449/screenshots/2783503/dribba.gif" width="300"/>]
+<img src="https://d13yacurqjgara.cloudfront.net/users/655449/screenshots/2783503/dribba.gif" width="300"/>
 
 ## Contact
 
